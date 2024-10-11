@@ -1,6 +1,6 @@
 # README
 
-URL shortener App is a Ruby on Rails application that allows users to shorten URl's, store them on AWS DynamoDB and acces them. The app provides a simple and intuitive interface for shortening URL's and retreiving all URL's content based on the random generated hex number.
+URL shortener App is a Ruby on Rails application that allows users to shorten URL's, store them on AWS DynamoDB and acces them. The app provides a simple and intuitive interface for shortening URL's and retreiving all URL's content based on the random generated hex number.
 
 ## Features
 
