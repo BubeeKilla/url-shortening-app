@@ -16,9 +16,9 @@ URL shortener App is a Ruby on Rails application that allows users to shorten UR
 
 ### Installation
 1. Clone the repository:
-   ```bash
-  git clone git clone git@github.com:BubeeKilla/url-shortening-app.git
-  cd url-shortening-app
+  ```bash
+  git clone https://github.com/BubeeKilla/url-shortening-app.git
+  cd customer_info_app
   ```
 2. Install dependencies:
   ```bash
