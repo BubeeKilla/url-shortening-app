@@ -11,7 +11,6 @@ URL shortener App is a Ruby on Rails application that allows users to shorten UR
 
 - Ruby on Rails
 - AWS DynamoDB.
-- AWS Lambda.
 
 ## Getting Started
 
@@ -25,9 +24,9 @@ URL shortener App is a Ruby on Rails application that allows users to shorten UR
   ```bash
   bundle install
   ```
-3. Create AWS DynamoDB Table and Lambda(give roles/permissions to work with DynamoDB):
+3. Create AWS DynamoDB Table:
 
-  - do not forget to make changes in the code regarding your DynamoDB and Lambda setup like table name etc.
+  - do not forget to make changes in the code regarding your DynamoDB.
 
 4. Set up environment variables:
    
